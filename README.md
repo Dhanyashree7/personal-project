@@ -8,5 +8,3 @@ This project is created to demonstrate basic GitHub version control operations s
 
 This project demonstrates GitHub version control operations including commit and push.
 
-
-
